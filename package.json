@@ -47,7 +47,7 @@
   },
   "dependencies": {
     "object-assign": "^4.1.1",
-    "quill": "https://github.com/Vadim-evisu/quill"
+    "quill": "git+https://github.com/Vadim-evisu/quill.git"
   },
   "devDependencies": {
     "autoprefixer": "^6.7.2",
